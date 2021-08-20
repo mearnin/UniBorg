@@ -108,3 +108,4 @@ Thanks to:
 - [![CopyLeft](https://telegra.ph/file/b514ed14d994557a724cb.jpg)](https://telegra.ph/file/fab1017e21c42a5c1e613.mp4 "CopyLeft Credit Video")
 
 [![Deploy+on+Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/mearnin/UniBorg/tree/master)
+[![Deploy+on+Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https://github.com/mearnin/UniBorg/tree/master&envs=API_HASH,API_ID,ENV,SUDO_USERS,TG_BOT_TOKEN_BF_HER,TG_BOT_USER_NAME_BF_HER,TMP_DOWNLOADS,TZ)
